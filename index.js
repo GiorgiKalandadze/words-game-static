@@ -28,6 +28,13 @@ for(const node of nodes) {
     });
 }
 
+document.getElementById('next').addEventListener('click', () => {
+    currentIndex++;
+    for(const node of nodes){
+        node.innerText = '';
+    }
+})
+
 var adjectives = [
     {"type":"adverb","en":"on the way","ge":"გზაში","ru":"в пути"},
     {"type":"adverb","en":"bad","ge":"ცუდად","ru":"плохо"},
@@ -2723,4 +2730,5 @@ var words = [
     { "type": "noun", "en": "brown", "ru": "коричневый", "category": ["color", "noun"] },
     { "type": "noun", "en": "black", "ru": "чёрный", "category": ["color", "noun"] },
     { "type": "noun", "en": "white", "ru": "белый", "category": ["color", "noun"] }
-].sort(() => Math.random() - 0.5);
+];
+word = words.sort(() => Math.random() - 0.5);
