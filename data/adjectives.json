@@ -1,0 +1,1332 @@
+[
+  {"type":"adverb","en":"on the way","ge":"გზაში","ru":"в пути"},
+  {"type":"adverb","en":"bad","ge":"ცუდად","ru":"плохо"},
+  {"type":"adverb","en":"ok","ge":"კარგად","ru":"хорошо"},
+  {"type":"adverb","en":"today","ge":"დღეს","ru":"сегодня"},
+  {"type":"adverb","en":"tomorrow","ge":"ხვალ","ru":"завтра"},
+  {"type":"adverb","en":"yesterday","ge":"გუშინ","ru":"вчера"},
+  {"type":"adverb","en":"long","ge":"გრძელი","ru":"длинная"},
+  {"type":"adjective","en":"expensive","ge":"ძვირი","ru":"дорого"},
+  {"type":"adjective","en":"hungry","ge":"მშიერი","ru":"голодный"},
+  {"type":"adjective","en":"the nearest","ge":"უახლოესი","ru":"ближайший"},
+  {
+    "type": "adjective",
+    "ge": "კარგი",
+    "en": "good",
+    "ru": "хороший"
+  },
+  {
+    "type": "adjective",
+    "ge": "ახალი",
+    "en": "new",
+    "ru": "новый"
+  },
+  {
+    "type": "adjective",
+    "ge": "პირველი",
+    "en": "first",
+    "ru": "первый"
+  },
+  {
+    "type": "adjective",
+    "ge": "ბოლო",
+    "en": "last",
+    "ru": "последний"
+  },
+  {
+    "type": "adjective",
+    "ge": "გრძელი",
+    "en": "long",
+    "ru": "длинный"
+  },
+  {
+    "type": "adjective",
+    "ge": "დიდებული",
+    "en": "great",
+    "ru": "великий"
+  },
+  {
+    "type": "adjective",
+    "ge": "პატარა",
+    "en": "little",
+    "ru": "маленький"
+  },
+  {
+    "type": "adjective",
+    "ge": "საკუთარი",
+    "en": "own",
+    "ru": "свой"
+  },
+  {
+    "type": "adjective",
+    "ge": "სხვა",
+    "en": "other",
+    "ru": "другой"
+  },
+  {
+    "type": "adjective",
+    "ge": "ძველი",
+    "en": "old",
+    "ru": "старый"
+  },
+  {
+    "type": "adjective",
+    "ge": "სწორი",
+    "en": "right",
+    "ru": "правый"
+  },
+  {
+    "type": "adjective",
+    "ge": "დიდი",
+    "en": "big",
+    "ru": "большой"
+  },
+  {
+    "type": "adjective",
+    "ge": "მაღალი",
+    "en": "high",
+    "ru": "высокий"
+  },
+  {
+    "type": "adjective",
+    "ge": "განსხვავებული",
+    "en": "different",
+    "ru": "разный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ატარა",
+    "en": "small",
+    "ru": "маленький"
+  },
+  {
+    "type": "adjective",
+    "ge": "დიდი",
+    "en": "large",
+    "ru": "большой"
+  },
+  {
+    "type": "adjective",
+    "ge": "შემდეგი",
+    "en": "next",
+    "ru": "следующий"
+  },
+  {
+    "type": "adjective",
+    "ge": "ადრე",
+    "en": "early",
+    "ru": "рано"
+  },
+  {
+    "type": "adjective",
+    "ge": "ახალგაზრდა",
+    "en": "young",
+    "ru": "молодой"
+  },
+  {
+    "type": "adjective",
+    "ge": "მნიშნველოვანი",
+    "en": "important",
+    "ru": "важный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ცოტა",
+    "en": "few",
+    "ru": "немного"
+  },
+  {
+    "type": "adjective",
+    "ge": "საჯარო",
+    "en": "public",
+    "ru": "общественный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ცუდი",
+    "en": "bad",
+    "ru": "плохой"
+  },
+  {
+    "type": "adjective",
+    "ge": "იგივე",
+    "en": "same",
+    "ru": "тот же"
+  },
+  {
+    "type": "adjective",
+    "ge": "შემძლე",
+    "en": "able",
+    "ru": "способный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ბოლო/უახლესი",
+    "en": "recent",
+    "ru": "недавний"
+  },
+  {
+    "type": "adjective",
+    "ge": "ძლიერი",
+    "en": "strong",
+    "ru": "сильный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ძირითადი",
+    "en": "major",
+    "ru": "основной"
+  },
+  {
+    "type": "adjective",
+    "ge": "შესაძლებელი",
+    "en": "possible",
+    "ru": "возможно"
+  },
+  {
+    "type": "adjective",
+    "ge": "განსაკუთრებული/კონკრეტული",
+    "en": "particular",
+    "ru": "особый"
+  },
+  {
+    "type": "adjective",
+    "ge": "გარკვეული",
+    "en": "certain",
+    "ru": "определенный"
+  },
+  {
+    "type": "adjective",
+    "ge": "გასაგებია",
+    "en": "clear",
+    "ru": "ясный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ადგილობრივი",
+    "en": "local",
+    "ru": "местный"
+  },
+  {
+    "type": "adjective",
+    "ge": "დარწმუნებული",
+    "en": "sure",
+    "ru": "уверенный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ხელმისაწვდომი",
+    "en": "available",
+    "ru": "доступный"
+  },
+  {
+    "type": "adjective",
+    "ge": "საერთო",
+    "en": "common",
+    "ru": "общий"
+  },
+  {
+    "type": "adjective",
+    "ge": "ღარიბი",
+    "en": "poor",
+    "ru": "бедный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ბუნებრივი",
+    "en": "natural",
+    "ru": "естественный"
+  },
+  {
+    "type": "adjective",
+    "ge": "გამორჩეული/განსაკუთრებული",
+    "en": "special",
+    "ru": "особый"
+  },
+  {
+    "type": "adjective",
+    "ge": "რთული",
+    "en": "difficult",
+    "ru": "сложный"
+  },
+  {
+    "type": "adjective",
+    "ge": "მოკლე",
+    "en": "short",
+    "ru": "короткий"
+  },
+  {
+    "type": "adjective",
+    "ge": "მარტივი",
+    "en": "simple",
+    "ru": "простой"
+  },
+  {
+    "type": "adjective",
+    "ge": "ერთი/მარტოხელა",
+    "en": "single",
+    "ru": "один"
+  },
+  {
+    "type": "adjective",
+    "ge": "სამედიცინო",
+    "en": "medical",
+    "ru": "медицинский"
+  },
+  {
+    "type": "adjective",
+    "ge": "ამჟამინდელი",
+    "en": "current",
+    "ru": "текущий"
+  },
+  {
+    "type": "adjective",
+    "ge": "არასწორი",
+    "en": "wrong",
+    "ru": "неправильный"
+  },
+  {
+    "type": "adjective",
+    "ge": "თავისუფალი",
+    "en": "free",
+    "ru": "свободный"
+  },
+  {
+    "type": "adjective",
+    "ge": "მარტივი",
+    "en": "easy",
+    "ru": "легко"
+  },
+  {
+    "type": "adjective",
+    "ge": "ნაციონალური",
+    "en": "national",
+    "ru": "национальный"
+  },
+  {
+    "type": "adjective",
+    "ge": "პირადი",
+    "en": "personal",
+    "ru": "личный"
+  },
+  {
+    "type": "adjective",
+    "ge": "ღია",
+    "en": "open",
+    "ru": "открытый"
+  },
+  {
+    "type": "adjective",
+    "category": ["adjective", "color"],
+    "ge": "წითელი",
+    "en": "red",
+    "ru": "красный"
+  },
+  {
+    "type": "adjective",
+    "category": ["adjective", "color"],
+    "ge": "მწვანე",
+    "en": "green",
+    "ru": "зеленый"
+  },
+  {
+    "type": "adjective",
+    "category": ["adjective", "color"],
+    "ge": "ცისფერი",
+    "en": "blue",
+    "ru": "синий"
+  },
+  {
+    "type": "adjective",
+    "category": ["adjective", "color"],
+    "ge": "ყვითელი",
+    "en": "yellow",
+    "ru": "желтый"
+  },
+  {
+    "type": "adjective",
+    "category": ["adjective", "color"],
+    "ge": "თეთრი",
+    "en": "white",
+    "ru": "белый"
+  },
+  {
+    "type": "adjective",
+    "category": ["adjective", "color"],
+    "ge": "შავი",
+    "en": "black",
+    "ru": "черный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "brown",
+    "ru": "коричневый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "gray",
+    "ru": "серый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "pink",
+    "ru": "розовый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "orange",
+    "ru": "оранжевый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "fast",
+    "ru": "быстрый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "slow",
+    "ru": "медленный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "full",
+    "ru": "полный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "empty",
+    "ru": "пустой"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "dry",
+    "ru": "сухой"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "wet",
+    "ru": "мокрый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "warm",
+    "ru": "теплый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "cold",
+    "ru": "холодный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "clean",
+    "ru": "чистый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "dirty",
+    "ru": "грязный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "correct",
+    "ru": "правильный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "near",
+    "ru": "рядом"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "far",
+    "ru": "далеко"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "left",
+    "ru": "левый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "top",
+    "ru": "верх"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "bottom",
+    "ru": "низ"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "front",
+    "ru": "передний"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "back",
+    "ru": "задний"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "inside",
+    "ru": "внутри"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "outside",
+    "ru": "снаружи"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "deep",
+    "ru": "глубокий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "shallow",
+    "ru": "мелкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "modern",
+    "ru": "современный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "ancient",
+    "ru": "древний"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "ready",
+    "ru": "готовый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "happy",
+    "ru": "счастливый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "sad",
+    "ru": "грустный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "angry",
+    "ru": "сердитый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "surprised",
+    "ru": "удивленный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "busy",
+    "ru": "занятый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "calm",
+    "ru": "спокойный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "tired",
+    "ru": "уставший"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "relaxed",
+    "ru": "расслабленный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "hungry",
+    "ru": "голодны"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "thirsty",
+    "ru": "жаждущий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "excited",
+    "ru": "взволнованный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "bored",
+    "ru": "скучающий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "lonely",
+    "ru": "одинокий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "content",
+    "ru": "довольный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "anxious",
+    "ru": "взвешенный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "curious",
+    "ru": "любознательный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "thoughtful",
+    "ru": "задумчивый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "confident",
+    "ru": "уверенный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "proud",
+    "ru": "гордый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "humble",
+    "ru": "скромный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "shy",
+    "ru": "застенчивый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "friendly",
+    "ru": "дружелюбный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "kind",
+    "ru": "добрый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "generous",
+    "ru": "щедрый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "rude",
+    "ru": "грубый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "mean",
+    "ru": "злой"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "honest",
+    "ru": "честный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "dishonest",
+    "ru": "нечестный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "loyal",
+    "ru": "верный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "disloyal",
+    "ru": "неверный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "trustworthy",
+    "ru": "надежный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "untrustworthy",
+    "ru": "ненадежный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "brave",
+    "ru": "храбрый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "fearful",
+    "ru": "боящийся"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "clever",
+    "ru": "умный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "stupid",
+    "ru": "глупый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "intelligent",
+    "ru": "умный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "wise",
+    "ru": "мудрый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "foolish",
+    "ru": "глупый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "creative",
+    "ru": "творческий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "uncreative",
+    "ru": "нетворческий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "original",
+    "ru": "оригинальный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "unoriginal",
+    "ru": "неоригинальный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "popular",
+    "ru": "популярный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "unpopular",
+    "ru": "непопулярный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "successful",
+    "ru": "успешный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "unsuccessful",
+    "ru": "неуспешный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "famous",
+    "ru": "известный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "infamous",
+    "ru": "известный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "rich",
+    "ru": "богатый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "wealthy",
+    "ru": "богатый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "low",
+    "ru": "низки"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "heavy",
+    "ru": "тяжелый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "light",
+    "ru": "легкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "thick",
+    "ru": "толстый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "thin",
+    "ru": "тонкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "wide",
+    "ru": "широкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "narrow",
+    "ru": "узкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "tall",
+    "ru": "высокий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "tiny",
+    "ru": "крошечный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "giant",
+    "ru": "гигантский"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "huge",
+    "ru": "огромный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "massive",
+    "ru": "массивный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "slim",
+    "ru": "стройный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "round",
+    "ru": "круглый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "square",
+    "ru": "квадратный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "rectangular",
+    "ru": "прямоугольный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "triangular",
+    "ru": "треугольный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "circular",
+    "ru": "круглый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "oval",
+    "ru": "овальный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "cylindrical",
+    "ru": "цилиндрический"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "conical",
+    "ru": "конический"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "spherical",
+    "ru": "сферический"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "flat",
+    "ru": "плоский"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "smooth",
+    "ru": "гладкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "rough",
+    "ru": "шероховатый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "soft",
+    "ru": "мягкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "hard",
+    "ru": "твердый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "dense",
+    "ru": "плотный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "porous",
+    "ru": "пористый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "solid",
+    "ru": "твердый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "liquid",
+    "ru": "жидкость"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "gaseous",
+    "ru": "газообразный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "flexible",
+    "ru": "гибкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "stiff",
+    "ru": "жесткий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "weak",
+    "ru": "слабый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "durable",
+    "ru": "долговечный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "fragile",
+    "ru": "хрупкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "elastic",
+    "ru": "эластичный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "rigid",
+    "ru": "жесткий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "sturdy",
+    "ru": "прочный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "flimsy",
+    "ru": "непрочны"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "beautiful",
+    "ru": "красивый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "ugly",
+    "ru": "некрасивый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "attractive",
+    "ru": "привлекательный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "unattractive",
+    "ru": "непривлекательный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "charming",
+    "ru": "очаровательный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "plain",
+    "ru": "простой"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "elegant",
+    "ru": "элегантный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "sophisticated",
+    "ru": "сложный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "complex",
+    "ru": "сложный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "colorful",
+    "ru": "цветной"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "monochrome",
+    "ru": "монохромный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "bright",
+    "ru": "яркий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "dim",
+    "ru": "тусклый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "shiny",
+    "ru": "блестящий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "dull",
+    "ru": "моросящий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "radiant",
+    "ru": "сияющий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "luminous",
+    "ru": "светящийся"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "sparkling",
+    "ru": "искрящийся"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "glowing",
+    "ru": "светящийся"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "sweet",
+    "ru": "сладкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "sour",
+    "ru": "кислый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "salty",
+    "ru": "соленый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "bitter",
+    "ru": "горький"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "spicy",
+    "ru": "острый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "bland",
+    "ru": "невкусный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "creamy",
+    "ru": "кремовый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "crunchy",
+    "ru": "хрустящий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "juicy",
+    "ru": "сочный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "tender",
+    "ru": "мягкий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "tough",
+    "ru": "жесткий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "fresh",
+    "ru": "свежий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "stale",
+    "ru": "старый"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "fragrant",
+    "ru": "ароматный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "odorless",
+    "ru": "без запаха"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "aromatic",
+    "ru": "ароматный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "tasteless",
+    "ru": "безвкусный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "hot",
+    "ru": "горячий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "cool",
+    "ru": "прохладный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "freezing",
+    "ru": "морозный"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "boiling",
+    "ru": "кипящий"
+  },
+  {
+    "type": "adjective",
+    "ge": "null",
+    "en": "pungent",
+    "ru": "острый"
+  }
+]
