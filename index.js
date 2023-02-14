@@ -2723,4 +2723,4 @@ var words = [
     { "type": "noun", "en": "brown", "ru": "коричневый", "category": ["color", "noun"] },
     { "type": "noun", "en": "black", "ru": "чёрный", "category": ["color", "noun"] },
     { "type": "noun", "en": "white", "ru": "белый", "category": ["color", "noun"] }
-];
+].sort(() => Math.random() - 0.5);
